@@ -12,7 +12,8 @@ function WelcomeMessage() {
 function App() {
   return (
     <div className="App">
-      HELLO WORLD
+      <h1>HELLO WORLD, BOB is online</h1>
+     <h2>Prince is betting, today he shall win, cheers</h2>
     </div>
   );
 }
